@@ -8,7 +8,6 @@ Vanilla Tweaks Resource Packs (Version 1.16):
 	BetterParticles
 	LessPurplePurpur
 	PinkEndRods
-	AnimatedCampfireItem
 	GoldenCrown
 	ClassicNetheriteArmor
 	HorizontalWorldBorder
