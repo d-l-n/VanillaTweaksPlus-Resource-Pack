@@ -1,9 +1,0 @@
-{
-	"parent": "block/lumpy",
-	"credit": "Made with Blockbench",
-	"textures": {
-		"1": "blocks/stone_lapis",
-		"2": "blocks/lapis_3d",
-		"particle": "blocks/lapis_3d"
-	}
-}
