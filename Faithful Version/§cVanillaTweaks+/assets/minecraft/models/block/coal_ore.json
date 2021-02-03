@@ -1,9 +1,0 @@
-{
-	"parent": "block/lumpy",
-	"credit": "Made with Blockbench",
-	"textures": {
-		"1": "blocks/stone_coal",
-		"2": "blocks/coal_3d",
-		"particle": "blocks/coal_3d"
-	}
-}

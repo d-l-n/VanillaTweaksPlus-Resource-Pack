@@ -1,9 +1,0 @@
-{
-	"parent": "block/ore_crystals",
-	"credit": "Made with Blockbench",
-	"textures": {
-		"1": "blocks/stone_quartz",
-		"2": "blocks/quartz_3d",
-		"particle": "blocks/quartz_3d"
-	}
-}
