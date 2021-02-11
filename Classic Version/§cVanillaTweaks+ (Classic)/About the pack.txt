@@ -104,9 +104,10 @@ Vanilla Tweaks Resource Packs (Version 1.16):
 	JappaCompass
 	JappaSigns
 	ItemHoldFix
+	AnimatedCampfireItem
 
 Added Textures:
 	OreOverhaul
-	Presets from Dark_Loading_Screen2
+	Presets from Dark Loading Screen
 
 All credits for the correspondings devs/teams
