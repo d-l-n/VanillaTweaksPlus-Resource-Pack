@@ -66,7 +66,6 @@ Vanilla Tweaks Resource Packs (Version 1.16):
 	UnobtrusiveRain
 	UnobtrusiveSnow
 	UnobtrusiveScaffolding
-	BorderlessGlass
 	TransparentPumpkin
 	LowerShield
 	LowerFire

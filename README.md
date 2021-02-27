@@ -1,13 +1,13 @@
 ﻿# **VanillaTweaks+ Resource Pack**
 
 ## **Pack content**
-1. Vanilla Tweaks Resource Packs Textures
+1. Vanilla Tweaks Resource Packs Textures [16x16 Textures]
 
-2. OreOverhaul ore textures
+2. OreOverhaul ore textures [16x16 Textures]
 
 3. Dark Loading Screen
 
-4. Faithful textures (Only Faithful version)
+4. Faithful textures (Only Faithful Version) [32x32 Textures]
 
 _All the credits for them._
 
@@ -22,12 +22,22 @@ _All the credits for them._
 ---
 
 ## **Links to original works**
-#### [VanillaTweaks](https://vanillatweaks.net/ "VanillaTweaks Official Web Site")
+- #### [VanillaTweaks](https://vanillatweaks.net/ "VanillaTweaks Official Web Site")
 
-#### [Ore Overhaul](https://www.curseforge.com/minecraft/texture-packs/minecraft-3d-ores "Ore Overhaul CurseForge's page")
+- #### [Ore Overhaul](https://www.curseforge.com/minecraft/texture-packs/minecraft-3d-ores "Ore Overhaul CurseForge's page")
 
-#### [Dark Loading Screen](https://www.curseforge.com/minecraft/texture-packs/dark-loading-screen "Dark Loading Screen CurseForge's page")
+- #### [Dark Loading Screen](https://www.curseforge.com/minecraft/texture-packs/dark-loading-screen "Dark Loading Screen CurseForge's page")
 
-#### [Faithful](https://faithful.team/ "Faithful Official Web Site")
+- #### [Faithful](https://faithful.team/ "Faithful Official Web Site")
 
 --- 
+
+## **Content of each Pack's Version**
+
+1. Classic Version: Vanilla Tweaks's textures, OreOverhaul's textures & Dark Loading Screen's implementation [Texture Pack fully 16x16].
+
+- Classic Version has 3 sub-versions: NormalUI, TransparentUI and DarkUI
+
+2. Faithful Version: Same as Classic Version but complemented with Faithful Textures [16x16 textures with 32x32's Faithful Textures]
+
+---

@@ -1,0 +1,9 @@
+{
+	"parent": "block/lumpy",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "block/obsidian",
+		"2": "block/obsidian",
+		"particle": "block/obsidian"
+	}
+}
